@@ -1,5 +1,7 @@
 ## Hi！  您好！ こんにちは！👋
 
+<img src="https://badges.toozhao.com/badges/01J9KGWVVKZWRFT7M62XQP9NKG/blue.svg" />
+
 :see_no_evil: ***Welcome to my GitHub page!***
 
 - :ghost: My name is Xiaohang Xu.
